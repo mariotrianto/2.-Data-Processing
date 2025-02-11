@@ -25,7 +25,3 @@ To run this notebook, you need to have the following installed:
 2. Follow the instructions provided in the notebook and execute the cells sequentially.
 3. Modify the code as needed to complete the assignment and analyze the data.
 
-
-## Author
-Mario Trianto
-
